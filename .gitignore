@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+node_modules/
+dist/
+data/
+backend/artifacts/*.pt
+backend/artifacts/*.pth
+backend/artifacts/*.onnx
+backend/artifacts/metrics.json
